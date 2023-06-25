@@ -1,11 +1,13 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
+Node version 18.0 has to installed in the system
 In the project directory, you can run:
 
+### npm install
+
+This creates a folder node_modules and installs the required package.
 ### `npm start`
 
 Runs the app in the development mode.\
