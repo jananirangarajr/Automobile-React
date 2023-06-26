@@ -1,11 +1,11 @@
-# Getting Started with Create React App
+# Getting Started with Automobile React App
 
 ## Available Scripts
 
 Node version 18.0 has to installed in the system
 In the project directory, you can run:
 
-### npm install
+### `npm install`
 
 This creates a folder node_modules and installs the required package.
 ### `npm start`
